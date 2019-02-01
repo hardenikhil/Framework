@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" configfailurepolicy="continue" verbose="0" name="Failed suite [Suite Bing Test All Browser]" parallel="tests">
+  <parameter name="runningOnGrid" value="true"/>
+  <parameter name="browserFlagO" value="chrome"/>
+  <parameter name="hubHost" value="10.2.1.164"/>
+  <parameter name="hubPort" value="4444"/>
+  <test name="Search test - GoogleChrome(failed)" parallel="tests">
+    <parameter name="runningOnGrid" value="true"/>
+    <parameter name="browserFlagO" value="chrome"/>
+    <parameter name="hubHost" value="10.2.1.164"/>
+    <parameter name="hubPort" value="4444"/>
+    <classes>
+      <class name="com.perficient.insite.testcase01.TC01InsiteSignIn">
+        <methods>
+          <include name="testSearchWeb"/>
+          <include name="afterSuite"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="generateBuildNumber"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.insite.testcase01.TC01InsiteSignIn -->
+    </classes>
+  </test> <!-- Search test - GoogleChrome(failed) -->
+  <test name="Search test - FF(failed)" parallel="tests">
+    <parameter name="runningOnGrid" value="true"/>
+    <parameter name="browserFlagO" value="firefox"/>
+    <parameter name="hubHost" value="10.2.1.164"/>
+    <parameter name="hubPort" value="4444"/>
+    <classes>
+      <class name="com.perficient.insite.testcase01.TC01InsiteSignIn">
+        <methods>
+          <include name="testSearchWeb"/>
+          <include name="afterSuite"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="generateBuildNumber"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.insite.testcase01.TC01InsiteSignIn -->
+    </classes>
+  </test> <!-- Search test - FF(failed) -->
+</suite> <!-- Failed suite [Suite Bing Test All Browser] -->

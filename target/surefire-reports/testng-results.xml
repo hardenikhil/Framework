@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite Insite Test All Browser" duration-ms="5" started-at="2017-05-04T07:34:06Z" finished-at="2017-05-04T07:34:06Z">
+    <groups>
+    </groups>
+    <test name="Search test - GoogleChrome" duration-ms="5" started-at="2017-05-04T07:34:06Z" finished-at="2017-05-04T07:34:06Z">
+    </test> <!-- Search test - GoogleChrome -->
+    <test name="Search test - FF" duration-ms="5" started-at="2017-05-04T07:34:06Z" finished-at="2017-05-04T07:34:06Z">
+    </test> <!-- Search test - FF -->
+    <test name="Search test - IE" duration-ms="5" started-at="2017-05-04T07:34:06Z" finished-at="2017-05-04T07:34:06Z">
+    </test> <!-- Search test - IE -->
+  </suite> <!-- Suite Insite Test All Browser -->
+</testng-results>

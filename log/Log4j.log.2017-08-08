@@ -1,0 +1,25 @@
+[17/08/08 13:09:58][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/08 13:09:58][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/08 13:09:58][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/08 13:10:27][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/08 13:10:28][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/08 13:10:46][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/08 13:10:46][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (c265e288f85967b1c882b3e0cb433ad6)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/08 13:10:47][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (c265e288f85967b1c882b3e0cb433ad6)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/08 13:10:47][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/08 13:10:47][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/08 13:10:47][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (c265e288f85967b1c882b3e0cb433ad6)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/08 13:10:50][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (c265e288f85967b1c882b3e0cb433ad6)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/08 13:10:50][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/08 13:10:50][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.id: email
+[17/08/08 13:10:51][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.id: email from '' to 'pooja118@gmail.com'
+[17/08/08 13:10:51][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.id: email
+[17/08/08 13:10:51][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.id: pass
+[17/08/08 13:10:51][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.id: pass from '' to '1234567'
+[17/08/08 13:10:51][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.id: pass
+[17/08/08 13:10:51][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.id: send2
+[17/08/08 13:10:51][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (c265e288f85967b1c882b3e0cb433ad6)] -> id: send2]
+[17/08/08 13:11:00][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (c265e288f85967b1c882b3e0cb433ad6)] -> id: send2]
+[17/08/08 13:11:04][ERROR][com.perficient.util.LogWebdriverEventListner-37] WebDriver error: Element not found By.id: send2
+[17/08/08 13:11:13][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/08 13:11:13][INFO][com.perficient.util.TestCaseBase-263] 201708081309 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@295cf707 FAIL chrome

@@ -1,0 +1,480 @@
+[17/08/04 10:40:29][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 10:40:29][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 10:40:29][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 10:40:58][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 10:40:58][INFO][com.perficient.util.TestCaseBase-263] 201708041040 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@78e87fc9 FAIL chrome
+[17/08/04 10:42:49][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 10:42:49][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 10:42:49][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 10:42:55][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 10:42:55][INFO][com.perficient.util.TestCaseBase-263] 201708041042 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@78e87fc9 FAIL chrome
+[17/08/04 10:44:00][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 10:44:00][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 10:44:00][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 10:44:06][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 10:44:06][INFO][com.perficient.util.TestCaseBase-263] 201708041044 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@78e87fc9 FAIL chrome
+[17/08/04 10:48:34][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 10:48:34][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 10:48:34][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 10:48:40][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 10:48:40][INFO][com.perficient.util.TestCaseBase-263] 201708041048 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@78e87fc9 FAIL chrome
+[17/08/04 10:56:30][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 10:56:30][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 10:56:30][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 10:56:44][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 10:56:44][INFO][com.perficient.util.TestCaseBase-263] 201708041056 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@3eef7272 FAIL chrome
+[17/08/04 10:59:18][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 10:59:18][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 10:59:18][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 10:59:29][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 10:59:29][INFO][com.perficient.util.TestCaseBase-263] 201708041059 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@386e0497 FAIL chrome
+[17/08/04 11:02:13][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:02:13][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:02:13][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:02:18][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:02:19][INFO][com.perficient.util.TestCaseBase-263] 201708041102 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@78e87fc9 FAIL chrome
+[17/08/04 11:03:53][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:03:53][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:03:53][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:04:02][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:04:02][INFO][com.perficient.util.TestCaseBase-263] 201708041103 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@386e0497 FAIL chrome
+[17/08/04 11:08:49][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:08:49][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:08:49][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:08:55][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:08:55][INFO][com.perficient.util.TestCaseBase-263] 201708041108 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@386e0497 FAIL chrome
+[17/08/04 11:09:58][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:09:58][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:09:58][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:10:06][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:10:06][INFO][com.perficient.util.TestCaseBase-263] 201708041109 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@15031ecd FAIL chrome
+[17/08/04 11:10:30][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:10:30][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:10:30][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:10:35][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:10:35][INFO][com.perficient.util.TestCaseBase-263] 201708041110 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@f0bffbb FAIL chrome
+[17/08/04 11:12:10][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:12:10][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:12:10][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:12:15][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:12:15][INFO][com.perficient.util.TestCaseBase-263] 201708041112 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@f0bffbb FAIL chrome
+[17/08/04 11:13:14][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:13:14][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:13:14][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:13:19][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:13:19][INFO][com.perficient.util.TestCaseBase-263] 201708041113 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@7fdb2f81 FAIL chrome
+[17/08/04 11:13:32][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:13:32][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:13:32][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:13:36][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:13:37][INFO][com.perficient.util.TestCaseBase-263] 201708041113 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@5cc255b4 FAIL chrome
+[17/08/04 11:16:19][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:16:19][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:16:19][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:16:24][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:16:24][INFO][com.perficient.util.TestCaseBase-263] 201708041116 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@1b3ae860 FAIL chrome
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-155] browserFlag=ie
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-155] browserFlag=firefox
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:20:47][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-155] browserFlag=firefox
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:21:50][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:22:12][INFO][com.perficient.util.TestCaseBase-263] 201708041121 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@4294c7c3 FAIL chrome
+[17/08/04 11:22:12][INFO][com.perficient.util.TestCaseBase-263] null DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@6f2e8138 FAIL firefox
+[17/08/04 11:22:21][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:22:21][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:22:21][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:22:29][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:22:29][INFO][com.perficient.util.TestCaseBase-263] 201708041122 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@78e87fc9 FAIL chrome
+[17/08/04 11:24:22][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:24:22][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:24:22][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:24:27][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:24:27][INFO][com.perficient.util.TestCaseBase-263] 201708041124 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@46fa3ce4 FAIL chrome
+[17/08/04 11:36:36][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:36:36][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:36:36][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:36:42][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:39:56][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.insite.testcase.signIn.TC01InsiteSignInTest
+[17/08/04 11:39:56][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:39:56][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:40:02][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01InsiteSignInTest.properties
+[17/08/04 11:41:42][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:41:42][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:41:42][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:41:48][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-155] browserFlag=firefox
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-154] onGrid=true
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-155] browserFlag=ie
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-157] hubHost=10.2.1.164
+[17/08/04 11:45:09][INFO][com.perficient.util.TestCaseBase-158] hubPort=4444
+[17/08/04 11:46:41][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 11:46:41][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:46:41][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:46:46][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 11:59:05][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01_Magento_LoginTest
+[17/08/04 11:59:05][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 11:59:05][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 11:59:09][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01_Magento_LoginTest.properties
+[17/08/04 12:01:18][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01_Magento_LoginTest
+[17/08/04 12:01:18][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:01:18][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:01:22][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01_Magento_LoginTest.properties
+[17/08/04 12:02:21][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01_Magento_LoginTest
+[17/08/04 12:02:21][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:02:21][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:02:25][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01_Magento_LoginTest.properties
+[17/08/04 12:04:44][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01_Magento_LoginTest
+[17/08/04 12:04:44][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:04:44][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:04:48][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01_Magento_LoginTest.properties
+[17/08/04 12:05:02][INFO][com.perficient.util.TestCaseBase-263] 201708041204 DemoPerficientGDCFramework  login TC01 [Ljava.lang.String;@1e125710 FAIL chrome
+[17/08/04 12:07:42][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01_Magento_LoginTest
+[17/08/04 12:07:42][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:07:42][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:07:47][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01_Magento_LoginTest.properties
+[17/08/04 12:08:41][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.insite.testcase.signIn.TC01InsiteSignInTest
+[17/08/04 12:08:41][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:08:41][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:08:46][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01InsiteSignInTest.properties
+[17/08/04 12:13:55][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 12:13:55][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:13:55][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:13:59][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 12:16:14][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 12:16:14][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:16:14][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:16:19][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 12:17:58][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC01MagentoLoginTest
+[17/08/04 12:17:58][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:17:58][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:18:04][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC01MagentoLoginTest.properties
+[17/08/04 12:18:04][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:18:21][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:18:21][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (9e4bf0f989bc18a0df30cb68b526ecde)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:18:21][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (9e4bf0f989bc18a0df30cb68b526ecde)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:18:21][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:18:21][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:18:21][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (9e4bf0f989bc18a0df30cb68b526ecde)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:18:23][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (9e4bf0f989bc18a0df30cb68b526ecde)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:18:23][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:18:23][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:18:24][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email'] from '' to 'pooja118@gmail.com'
+[17/08/04 12:18:24][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:18:24][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:18:24][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='pass'] from '' to '1234567'
+[17/08/04 12:18:24][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:18:24][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:18:24][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (9e4bf0f989bc18a0df30cb68b526ecde)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:18:46][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (9e4bf0f989bc18a0df30cb68b526ecde)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:18:49][ERROR][com.perficient.util.LogWebdriverEventListner-37] WebDriver error: Element not found By.xpath: .//*[@id='send2']
+[17/08/04 12:18:58][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 12:18:58][INFO][com.perficient.util.TestCaseBase-263] 201708041217 DemoPerficientGDCFramework  login TC01MagentoLoginTest [Ljava.lang.String;@295cf707 FAIL chrome
+[17/08/04 12:24:09][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC02InvalidMagentoLoginTest
+[17/08/04 12:24:09][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:24:09][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:24:14][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC02InvalidMagentoLoginTest.properties
+[17/08/04 12:24:15][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:24:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:24:30][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (8c85928998487bea44f2b001b041f7d2)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:24:30][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (8c85928998487bea44f2b001b041f7d2)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:24:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:24:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:24:30][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (8c85928998487bea44f2b001b041f7d2)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (8c85928998487bea44f2b001b041f7d2)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email'] from '' to 'pooja118@gmail.com'
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='pass'] from '' to '123456'
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:24:32][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (8c85928998487bea44f2b001b041f7d2)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:24:34][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (8c85928998487bea44f2b001b041f7d2)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:24:34][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:24:43][INFO][com.perficient.util.TestCaseBase-111] fail
+[17/08/04 12:24:43][INFO][com.perficient.util.TestCaseBase-263] 201708041224 DemoPerficientGDCFramework  login TC02InvalidMagentoLoginTest [Ljava.lang.String;@20d7d6fb FAIL chrome
+[17/08/04 12:31:40][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC02InvalidMagentoLoginTest
+[17/08/04 12:31:40][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:31:40][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:31:46][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC02InvalidMagentoLoginTest.properties
+[17/08/04 12:31:46][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:32:03][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:32:03][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (091a39281bc7e95c9da7c8e8461733e7)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:32:03][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (091a39281bc7e95c9da7c8e8461733e7)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:32:03][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:32:03][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:32:03][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (091a39281bc7e95c9da7c8e8461733e7)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:32:04][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (091a39281bc7e95c9da7c8e8461733e7)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:32:04][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:32:04][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:32:04][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email'] from '' to 'pooja118@gmail.com'
+[17/08/04 12:32:04][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:32:04][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:32:05][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='pass'] from '' to '123456'
+[17/08/04 12:32:05][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:32:05][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:32:05][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (091a39281bc7e95c9da7c8e8461733e7)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:32:06][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (091a39281bc7e95c9da7c8e8461733e7)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:32:06][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:32:16][INFO][com.perficient.util.CustomAssertion-141] .\errorImages\20173204_123216.png
+[17/08/04 12:32:16][INFO][com.perficient.util.TestCaseBase-111] fail
+[17/08/04 12:32:16][INFO][com.perficient.util.TestCaseBase-263] 201708041231 DemoPerficientGDCFramework  login TC02InvalidMagentoLoginTest [Ljava.lang.String;@7354b8c5 FAIL chrome
+[17/08/04 12:33:46][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC02InvalidMagentoLoginTest
+[17/08/04 12:33:46][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:33:46][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:33:51][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC02InvalidMagentoLoginTest.properties
+[17/08/04 12:33:52][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:34:08][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:34:08][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (06f5135a6d3737debf673cb630c52ae2)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:34:08][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (06f5135a6d3737debf673cb630c52ae2)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:34:08][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:34:08][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:34:08][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (06f5135a6d3737debf673cb630c52ae2)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:34:09][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (06f5135a6d3737debf673cb630c52ae2)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:34:09][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:34:09][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:34:09][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email'] from '' to 'pooja118@gmail.com'
+[17/08/04 12:34:09][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:34:09][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:34:10][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='pass'] from '' to '123456'
+[17/08/04 12:34:10][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:34:10][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:34:10][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (06f5135a6d3737debf673cb630c52ae2)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:34:11][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (06f5135a6d3737debf673cb630c52ae2)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:34:11][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:34:21][INFO][com.perficient.util.CustomAssertion-141] .\errorImages\20173404_123421.png
+[17/08/04 12:34:21][INFO][com.perficient.util.TestCaseBase-111] fail
+[17/08/04 12:34:21][INFO][com.perficient.util.TestCaseBase-263] 201708041233 DemoPerficientGDCFramework  login TC02InvalidMagentoLoginTest [Ljava.lang.String;@7354b8c5 FAIL chrome
+[17/08/04 12:41:21][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC03InvalidMagentoLoginTest2
+[17/08/04 12:41:21][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:41:21][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:41:26][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC03InvalidMagentoLoginTest2.properties
+[17/08/04 12:41:26][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:41:49][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:41:49][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (6b51aa5c93a12e198aba3e1f7f9dc13f)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:41:49][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (6b51aa5c93a12e198aba3e1f7f9dc13f)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:41:49][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:41:49][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:41:49][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (6b51aa5c93a12e198aba3e1f7f9dc13f)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:41:50][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (6b51aa5c93a12e198aba3e1f7f9dc13f)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:41:50][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:41:50][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 12:41:50][INFO][com.perficient.util.TestCaseBase-263] 201708041241 DemoPerficientGDCFramework  login TC03InvalidMagentoLoginTest2 [Ljava.lang.String;@4d6025c5 FAIL chrome
+[17/08/04 12:42:15][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC03InvalidMagentoLoginTest2
+[17/08/04 12:42:15][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:42:15][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:42:19][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC03InvalidMagentoLoginTest2.properties
+[17/08/04 12:42:19][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:42:40][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:42:40][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (d54069a09f864368360398a8aa854a1f)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:42:40][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (d54069a09f864368360398a8aa854a1f)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:42:40][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:42:40][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:42:40][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (d54069a09f864368360398a8aa854a1f)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:42:41][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (d54069a09f864368360398a8aa854a1f)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:42:41][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:42:41][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 12:42:41][INFO][com.perficient.util.TestCaseBase-263] 201708041242 DemoPerficientGDCFramework  login TC03InvalidMagentoLoginTest2 [Ljava.lang.String;@4d6025c5 FAIL chrome
+[17/08/04 12:46:07][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC03InvalidMagentoLoginTest2
+[17/08/04 12:46:07][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:46:07][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:46:12][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC03InvalidMagentoLoginTest2.properties
+[17/08/04 12:46:12][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:46:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:46:30][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (1cb049b5d89ceee5943c5ea1ce92bb05)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:46:30][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (1cb049b5d89ceee5943c5ea1ce92bb05)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:46:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:46:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:46:30][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (1cb049b5d89ceee5943c5ea1ce92bb05)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:46:32][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (1cb049b5d89ceee5943c5ea1ce92bb05)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:46:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:46:32][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 12:46:32][INFO][com.perficient.util.TestCaseBase-263] 201708041246 DemoPerficientGDCFramework  login TC03InvalidMagentoLoginTest2 [Ljava.lang.String;@4d6025c5 FAIL chrome
+[17/08/04 12:47:06][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC03InvalidMagentoLoginTest2
+[17/08/04 12:47:06][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:47:06][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:47:11][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC03InvalidMagentoLoginTest2.properties
+[17/08/04 12:47:11][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:47:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:47:30][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (5d9137ab41ef7e04d16e08163e2ec2c3)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:47:30][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (5d9137ab41ef7e04d16e08163e2ec2c3)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:47:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:47:30][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:47:30][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (5d9137ab41ef7e04d16e08163e2ec2c3)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:47:31][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (5d9137ab41ef7e04d16e08163e2ec2c3)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:47:31][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:47:31][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 12:47:31][INFO][com.perficient.util.TestCaseBase-263] 201708041247 DemoPerficientGDCFramework  login TC03InvalidMagentoLoginTest2 [Ljava.lang.String;@4d6025c5 FAIL chrome
+[17/08/04 12:48:50][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC03InvalidBlankMagentoLoginTest2
+[17/08/04 12:48:50][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:48:50][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:48:55][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC03InvalidBlankMagentoLoginTest2.properties
+[17/08/04 12:48:55][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:49:16][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:49:16][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (e64f08adda2b987c1e84e76612b26185)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:49:16][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (e64f08adda2b987c1e84e76612b26185)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:49:16][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:49:16][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:49:16][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (e64f08adda2b987c1e84e76612b26185)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:49:18][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (e64f08adda2b987c1e84e76612b26185)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:49:18][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:49:18][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 12:49:18][INFO][com.perficient.util.TestCaseBase-263] 201708041248 DemoPerficientGDCFramework  login TC03InvalidBlankMagentoLoginTest2 [Ljava.lang.String;@4d6025c5 FAIL chrome
+[17/08/04 12:50:47][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC03InvalidBlankMagentoLoginTest2
+[17/08/04 12:50:47][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:50:47][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:50:52][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC03InvalidBlankMagentoLoginTest2.properties
+[17/08/04 12:50:52][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:51:11][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:51:11][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (79ecb10aca4c9067b75d34ca84e622a6)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:51:11][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (79ecb10aca4c9067b75d34ca84e622a6)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:51:12][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:51:12][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:51:12][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (79ecb10aca4c9067b75d34ca84e622a6)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:51:13][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (79ecb10aca4c9067b75d34ca84e622a6)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:51:13][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:51:13][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 12:51:13][INFO][com.perficient.util.TestCaseBase-263] 201708041250 DemoPerficientGDCFramework  login TC03InvalidBlankMagentoLoginTest2 [Ljava.lang.String;@4d6025c5 FAIL chrome
+[17/08/04 12:51:53][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC03InvalidBlankMagentoLoginTest2
+[17/08/04 12:51:53][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:51:53][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:51:57][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC03InvalidBlankMagentoLoginTest2.properties
+[17/08/04 12:51:57][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:52:15][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:52:15][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (84ef43309df5c5dc550f42def1a01df8)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:52:20][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (84ef43309df5c5dc550f42def1a01df8)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:52:20][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:52:20][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:52:20][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (84ef43309df5c5dc550f42def1a01df8)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:52:26][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (84ef43309df5c5dc550f42def1a01df8)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:52:26][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:52:26][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:52:26][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email'] from '' to 'pooja118@gmail.com'
+[17/08/04 12:52:26][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:52:27][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:52:27][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='pass'] from '' to ''
+[17/08/04 12:52:27][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:52:27][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:52:27][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (84ef43309df5c5dc550f42def1a01df8)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:52:32][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (84ef43309df5c5dc550f42def1a01df8)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:52:32][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:52:41][INFO][com.perficient.util.CustomAssertion-141] .\errorImages\20175204_125241.png
+[17/08/04 12:52:41][INFO][com.perficient.util.TestCaseBase-111] fail
+[17/08/04 12:52:41][INFO][com.perficient.util.TestCaseBase-263] 201708041251 DemoPerficientGDCFramework  login TC03InvalidBlankMagentoLoginTest2 [Ljava.lang.String;@7354b8c5 FAIL chrome
+[17/08/04 12:55:13][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC04BlankUsernameMagentoLoginTest
+[17/08/04 12:55:13][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 12:55:13][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 12:55:18][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC04BlankUsernameMagentoLoginTest.properties
+[17/08/04 12:55:18][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 12:55:42][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:55:42][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (e8873bb6e8983a24a1e7d38bdfa4abf1)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:55:43][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (e8873bb6e8983a24a1e7d38bdfa4abf1)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 12:55:43][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 12:55:43][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:55:43][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (e8873bb6e8983a24a1e7d38bdfa4abf1)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (e8873bb6e8983a24a1e7d38bdfa4abf1)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email'] from '' to ''
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='pass'] from '' to '1234567'
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (e8873bb6e8983a24a1e7d38bdfa4abf1)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (e8873bb6e8983a24a1e7d38bdfa4abf1)] -> xpath: .//*[@id='send2']]
+[17/08/04 12:55:44][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 12:55:54][INFO][com.perficient.util.CustomAssertion-141] .\errorImages\20175504_125554.png
+[17/08/04 12:55:54][INFO][com.perficient.util.TestCaseBase-111] fail
+[17/08/04 12:55:54][INFO][com.perficient.util.TestCaseBase-263] 201708041255 DemoPerficientGDCFramework  login TC04BlankUsernameMagentoLoginTest [Ljava.lang.String;@20d7d6fb FAIL chrome
+[17/08/04 13:21:08][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC05RegistrationMagentoTest
+[17/08/04 13:21:08][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 13:21:08][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 13:21:14][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC05RegistrationMagentoTest.properties
+[17/08/04 13:21:14][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 13:21:33][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 13:21:33][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (5d71c1a0db34832b4735f4cafa94b1a5)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 13:21:33][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (5d71c1a0db34832b4735f4cafa94b1a5)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 13:21:33][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 13:21:34][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[5]/a
+[17/08/04 13:21:34][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (5d71c1a0db34832b4735f4cafa94b1a5)] -> xpath: .//*[@id='header-account']/div/ul/li[5]/a]
+[17/08/04 13:21:35][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (5d71c1a0db34832b4735f4cafa94b1a5)] -> xpath: .//*[@id='header-account']/div/ul/li[5]/a]
+[17/08/04 13:21:35][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[5]/a
+[17/08/04 13:21:35][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='firstname']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='firstname'] from '' to 'priya'
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='firstname']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='lastname']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='lastname'] from '' to 'kapoor'
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='lastname']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email_address']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email_address'] from '' to 'priya@gmail.com'
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email_address']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='password']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='password'] from '' to '1234567'
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='password']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='confirmation']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='confirmation'] from '' to '1234567'
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='confirmation']
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='form-validate']/div[2]/button
+[17/08/04 13:21:36][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (5d71c1a0db34832b4735f4cafa94b1a5)] -> xpath: .//*[@id='form-validate']/div[2]/button]
+[17/08/04 13:21:45][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (5d71c1a0db34832b4735f4cafa94b1a5)] -> xpath: .//*[@id='form-validate']/div[2]/button]
+[17/08/04 13:21:48][ERROR][com.perficient.util.LogWebdriverEventListner-37] WebDriver error: Element not found By.xpath: .//*[@id='form-validate']/div[2]/button
+[17/08/04 13:21:57][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 13:21:57][INFO][com.perficient.util.TestCaseBase-263] 201708041321 DemoPerficientGDCFramework  login TC05RegistrationMagentoTest [Ljava.lang.String;@1cb346ea FAIL chrome
+[17/08/04 14:23:12][INFO][com.perficient.util.TestCaseBase-81] running TEST Case:com.perficient.magento.testcase.login.TC02InvalidMagentoLoginTest
+[17/08/04 14:23:12][INFO][com.perficient.util.TestCaseBase-154] onGrid=false
+[17/08/04 14:23:12][INFO][com.perficient.util.TestCaseBase-155] browserFlag=chrome
+[17/08/04 14:23:17][INFO][com.perficient.util.TestCaseBase-335] Setting...filename=testdata_TC02InvalidMagentoLoginTest.properties
+[17/08/04 14:23:17][INFO][com.perficient.util.LogWebdriverEventListner-19] WebDriver navigating to:'http://magento-demo.lexiconn.com/'
+[17/08/04 14:23:57][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 14:23:57][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (f9bfb46f3ddeb528bff6a55ea1e7523f)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 14:23:58][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (f9bfb46f3ddeb528bff6a55ea1e7523f)] -> xpath: .//*[@id='header']/div/div[2]/a[3]]
+[17/08/04 14:23:58][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header']/div/div[2]/a[3]
+[17/08/04 14:23:58][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 14:23:58][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (f9bfb46f3ddeb528bff6a55ea1e7523f)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 14:24:01][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (f9bfb46f3ddeb528bff6a55ea1e7523f)] -> xpath: .//*[@id='header-account']/div/ul/li[6]/a]
+[17/08/04 14:24:01][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='header-account']/div/ul/li[6]/a
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='email'] from '' to 'pooja118@gmail.com'
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='email']
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-27] WebDriver changing value in element found By.xpath: .//*[@id='pass'] from '' to '123456'
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='pass']
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 14:24:02][INFO][com.perficient.util.LogWebdriverEventListner-50] WebDriver clicking on[[ChromeDriver: chrome on XP (f9bfb46f3ddeb528bff6a55ea1e7523f)] -> xpath: .//*[@id='send2']]
+[17/08/04 14:24:09][INFO][com.perficient.util.LogWebdriverEventListner-57] WebDriver clicked on[[ChromeDriver: chrome on XP (f9bfb46f3ddeb528bff6a55ea1e7523f)] -> xpath: .//*[@id='send2']]
+[17/08/04 14:24:09][INFO][com.perficient.util.LogWebdriverEventListner-62] WebDriver found By.xpath: .//*[@id='send2']
+[17/08/04 14:24:19][INFO][com.perficient.util.PageManager-276] save snapshot path is:./test-output/errorImages/20172404_022419.png
+[17/08/04 14:24:19][INFO][com.perficient.util.TestCaseBase-111] pass
+[17/08/04 14:24:19][INFO][com.perficient.util.TestCaseBase-263] 201708041423 DemoPerficientGDCFramework  login TC02InvalidMagentoLoginTest [Ljava.lang.String;@52815fa3 FAIL chrome

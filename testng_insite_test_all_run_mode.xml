@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Insite Test All Browser" parallel="tests" thread-count="3"
+	   configfailurepolicy="continue">
+	   
+
+	   
+	<test name="Search test - FF">
+	
+	 	
+		<parameter name="browserFlagO" value="firefox" />
+		<parameter name="runningOnGrid" value="true" />
+		<parameter name="hubHost" value="10.2.1.164" />
+		<parameter name="hubPort" value="4444" />
+		<packages>
+			<package name="com.perficient.insite.testcase01" />
+			
+	
+		</packages>
+		   
+  
+</test>
+
+    
+	<test name="Search test - GoogleChrome">
+		<parameter name="browserFlagO" value="chrome" />
+		<parameter name="runningOnGrid" value="true" />
+		<parameter name="hubHost" value="10.2.1.164" />
+		<parameter name="hubPort" value="4444" />
+		<packages>
+			<package name="com.perficient.insite.testcase01" />
+		</packages>
+	</test>
+
+<test name="Search test - IE">
+	
+	 	
+		<parameter name="browserFlagO" value="ie" />
+		<parameter name="runningOnGrid" value="true" />
+		<parameter name="hubHost" value="10.2.1.164" />
+		<parameter name="hubPort" value="4444" />
+		<packages>
+			<package name="com.perficient.insite.testcase01" />
+			
+	
+		</packages>
+		   
+  
+</test>
+	
+</suite>
+
+   

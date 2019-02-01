@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" configfailurepolicy="continue" verbose="0" name="Failed suite [Suite Insite Test All Browser]" parallel="tests">
+  <parameter name="browserFlagO" value="ie"/>
+  <parameter name="runningOnGrid" value="true"/>
+  <parameter name="hubHost" value="10.2.1.164"/>
+  <parameter name="hubPort" value="4444"/>
+  <test name="Search test - GoogleChrome(failed)" parallel="tests">
+    <parameter name="runningOnGrid" value="true"/>
+    <parameter name="browserFlagO" value="chrome"/>
+    <parameter name="hubHost" value="10.2.1.164"/>
+    <parameter name="hubPort" value="4444"/>
+    <classes>
+      <class name="com.perficient.magento.testcase.login.TC01MagentoLoginTest">
+        <methods>
+          <include name="testSearch"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="generateBuildNumber"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.perficient.magento.testcase.login.TC01MagentoLoginTest -->
+    </classes>
+  </test> <!-- Search test - GoogleChrome(failed) -->
+  <test name="Search test - IE(failed)" parallel="tests">
+    <parameter name="runningOnGrid" value="true"/>
+    <parameter name="browserFlagO" value="ie"/>
+    <parameter name="hubHost" value="10.2.1.164"/>
+    <parameter name="hubPort" value="4444"/>
+    <classes>
+      <class name="com.perficient.magento.testcase.login.TC01MagentoLoginTest">
+        <methods>
+          <include name="testSearch"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="generateBuildNumber"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.perficient.magento.testcase.login.TC01MagentoLoginTest -->
+    </classes>
+  </test> <!-- Search test - IE(failed) -->
+  <test name="Search test - FF(failed)" parallel="tests">
+    <parameter name="runningOnGrid" value="true"/>
+    <parameter name="browserFlagO" value="firefox"/>
+    <parameter name="hubHost" value="10.2.1.164"/>
+    <parameter name="hubPort" value="4444"/>
+    <classes>
+      <class name="com.perficient.magento.testcase.login.TC01MagentoLoginTest">
+        <methods>
+          <include name="testSearch"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="generateBuildNumber"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpBrowser"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.perficient.magento.testcase.login.TC01MagentoLoginTest -->
+    </classes>
+  </test> <!-- Search test - FF(failed) -->
+</suite> <!-- Failed suite [Suite Insite Test All Browser] -->
